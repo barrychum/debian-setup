@@ -1,10 +1,7 @@
 #!/bin/bash
 
 # ==============================================================================
-# SCRIPT NAME: network_and_ssh_config.sh
-# DESCRIPTION: A script to configure network interfaces, disable IPv6, and
-#              enable root SSH login. It includes robust file checks and a
-#              consistent logging mechanism.
+# DESCRIPTION: configure network interfaces, disable IPv6, and enable root SSH login. 
 # ==============================================================================
 
 # Set variables for file paths
